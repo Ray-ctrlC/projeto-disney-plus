@@ -5,11 +5,6 @@
 </h1>
 
 
-
-<h4 align="center">
-  PALETA DE CORES.
-</h4>
-
 <p align="center">
   <a href="#test_tube-technologies">TECNOLOGIAS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <!-- <a href="#rocket-Getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; -->
